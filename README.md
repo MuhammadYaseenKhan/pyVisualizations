@@ -1,2 +1,2 @@
 # pyVisualizations
-Python scripts for different visualizations
+Python scripts for different visualizations.
